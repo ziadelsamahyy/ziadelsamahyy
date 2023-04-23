@@ -19,21 +19,17 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ziadelsamahy" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Elsamahy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/ziadelsamahyy" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Elsamahy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=563D7C)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=1572B6)&nbsp;
+![android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android&logoColor=1572B6)&nbsp;
+![android Studio ](https://img.shields.io/badge/-android%20Studio%20Code-05122A?style=flat&logo=Android-studio&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![android Studio ](https://img.shields.io/badge/-android%20Studio%20Code-05122A?style=flat&logo=Android-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
