@@ -16,10 +16,10 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
-### Connect with Me :
+<!-- ### Connect with Me :
 
 <a href="https://linkedin.com/in/ziadelsamahy" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Elsamahy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ziadelsamahyy" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Elsamahy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ziadelsamahyy" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20Elsamahy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a> -->
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
@@ -36,7 +36,7 @@
  -->
  
 <details>
-   <summary>Some interesting facts about me!</summary>
+   <summary>Some interesting facts about me!</summary>   <br>
     - Learning programming and getting knowledge about .
   <br>
   
